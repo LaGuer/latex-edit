@@ -1,7 +1,7 @@
-JaxEdit
+latex-edit
 =======
 
-JaxEdit is an online LaTeX editor with live preview. You could try it at [https://zohooo.github.io/jaxedit](https://zohooo.github.io/jaxedit).
+latex-edit is an online LaTeX editor with live preview. You could try it at [https://laguer.github.io/latex-edit](https://laguer.github.io/latex-edit).
 
 The JaxEdit project is separated as two parts: one is the LaTeX editor which is under GNU Lesser General Public License, and the other is the LaTeX typesetter named TypeJax, which is under The MIT License.
 
